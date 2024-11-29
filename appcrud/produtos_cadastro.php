@@ -131,8 +131,8 @@ if (!isset($_SESSION['email'])) {
             </div>
 
             <div class="d-flex gap-2">
-                <button type="submit" class="btn btn-success" name="save">Cadastrar</button>
-                <button type="submit" class="btn btn-secondary" name="update">Salvar Alteração</button>
+                <button type="submit" class="btn btn-success" name="save">Cadastrar produtos</button>
+                <button type="submit" class="btn btn-secondary" name="update">Salvar</button>
                 <button type="button" class="btn btn-primary" onclick="clearForm()">Limpar</button>
             </div>
         </form>

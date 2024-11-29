@@ -10,8 +10,8 @@
 
 <body class="d-flex align-items-center justify-content-center bg-light" style="height: 100vh;">
     <div class="card shadow-lg" style="width: 100%; max-width: 400px;">
-        <div class="card-header bg-primary text-white text-center">
-            <h3>Login</h3>
+        <div>
+            <h3 style="text-align: center;">Login</h3>
         </div>
         <div class="card-body">
             <form action="login.php" method="POST">
